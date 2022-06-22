@@ -1,0 +1,147 @@
+.body{
+    font-family: 'Lexend Deca' , 'Big Shoulders Display' sans-serif;
+}
+.container{
+    width: 1240px;
+    margin: auto;
+    
+}
+.cars{
+    
+}
+.cars-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+}
+.cars-name{
+    width: 307px;
+    height: 500px;
+    
+    background: #E28625;
+    border-radius: 8px;
+    
+}
+.cars-img{
+    margin-top: 48px;
+    margin-left: 48px;
+    
+}
+.text-h{
+    margin-left: 48px;
+    width: 101px;
+    height: 48px;
+    left: 308px;
+    top: 294px;
+    
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #F2F2F2;
+    
+}
+.text-p{
+    margin-bottom: 80px;
+    margin-left: 48px;
+
+    width: 212px;
+    height: 125px;
+    left: 307.5px;
+    top: 367px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    /* or 167% */
+    
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    
+}
+.bottom{
+    
+    margin-left: 48px;
+    background: #F2F2F2;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 11px 31px 12px 31px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    color: #E28625;
+    
+}
+.bottom:hover{
+    background:#E28625;
+    color: #F2F2F2;
+    border: 3px solid #F2F2F2 ;
+}
+
+
+.cars-name-1{
+    width: 307px;
+    height: 500px;
+    
+    
+    background: #006971;
+    border-radius: 8px;
+    
+}
+
+.bottom-1{
+    margin-left: 48px;
+    background: #F2F2F2;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 11px 31px 12px 31px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    color: #006971;
+    
+}
+.bottom-1:hover{
+    background:#006971;
+    color: #F2F2F2;
+    border: 3px solid #F2F2F2 ;
+}
+
+
+.cars-name-2{
+    width: 307px;
+    height: 500px;
+    
+    background: #004140;
+    border-radius: 8px;
+}
+.bottom-2{
+    margin-left: 48px;
+    background: #F2F2F2;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 11px 31px 12px 31px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    color:  #004140;
+    
+    
+}
+.bottom-2:hover{
+    background:#004140;
+    color: #F2F2F2;
+    border: 3px solid #F2F2F2 ;
+}
